@@ -34,7 +34,6 @@
 * Information Security and Quality Assurance Projects
 
 * Coding Interview Prep: Take Home Projects
-    * Build a Tic Tac Toe Game [Netlify](https://fcc-tictactoe-game.netlify.com/) [Repo](https://github.com/mediasittich/freeCodeCamp_tictactoe_game)
 
 ---
 - [ ] 	**TODO:** Check which projects are completed, create a repo for each and link it here
