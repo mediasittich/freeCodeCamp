@@ -29,6 +29,7 @@
 * JavaScript Algorithms and Data Structures Projects
 * Front End Libraries Projects
     * Build a Random Quote Machine [Netlify](https://fcc-random-quotes.netlify.com/) [Repo](https://github.com/mediasittich/freeCodeCamp_random_quote_machine)
+    * Build a Markdown Previewer [Netlify](https://fcc-markdown-preview.netlify.com/) [Repo](https://github.com/mediasittich/freeCodeCamp_markdown_previewer)
 * Data Visualization Projects
 * APIs and Microservices Projects
 * Information Security and Quality Assurance Projects
